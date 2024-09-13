@@ -17,5 +17,6 @@ Vector2= Vector(50,60)
 Vector3= Vector1+Vector2
 print(Vector3.x)
 print(Vector3.y)
-# p= person("Joy",24)
+p= person("Joy",24)
+
 del p
